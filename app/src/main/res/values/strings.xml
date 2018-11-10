@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="title">Title:</string>
+    <string name="poster_path">poster_path</string>
+    <string name="plot_synopsis">Plot Synopsis:</string>
+    <string name="vote_average">Average Vote:</string>
+    <string name="release_date">Release Date:</string>
+
+    <string name="title_json">title</string>
+    <string name="poster_path_json">poster_path</string>
+    <string name="plot_synopsis_json">overview</string>
+    <string name="vote_average_json">vote_average</string>
+    <string name="release_date_json">release_date</string>
+    <string name="id_json">id</string>
+    <string name="key">key</string>
+
+    <string name="details">DETAILS</string>
+
+    <string-array name="sortby_options">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
